@@ -82,9 +82,10 @@ The goal is to provide **clean, efficient, and well-documented** solutions to he
 1. Clone this repository:
    ```bash
    git clone https://github.com/soumyajit1010/GFG-CodeRush-DSA-Solutions.git
-2. Navigate to the problem folder:
+2. Navigate to the problem folder
+   ```bash
    cd GFG-CodeRush-DSA-Solutions
-3. Compile and run:
+4. Compile and run:
    Open any .java file in your preferred IDE and run it.
 
 ---
@@ -133,5 +134,3 @@ For any questions or suggestions, feel free to reach out:
 
 **Happy Coding! 🚀**
 
-   ```bash
-   git clone https://github.com/soumyajit1010/GFG-CodeRush-DSA-Solutions.git
