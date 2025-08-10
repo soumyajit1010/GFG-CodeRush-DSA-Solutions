@@ -127,10 +127,10 @@ If you found this repository helpful:
 ## 📧 Contact
 For any questions or suggestions, feel free to reach out:  
 
-**Author:** Soumyajit Rout  
+**Name:** Soumyajit Rout  
 **GitHub:** [soumyajit1010](https://github.com/soumyajit1010)  
-**Email:** soumyajitrout81@gmail.com
-**LinkedIn:** [SoumyajitRout](https://www.linkedin.com/in/soumyajit-rout-7567b1300/)  
+**Email:** soumyajitrout81@gmail.com  
+**LinkedIn:** [Soumyajit Rout](https://www.linkedin.com/in/soumyajit-rout-7567b1300/)  
 
 **Happy Coding! 🚀**
 
